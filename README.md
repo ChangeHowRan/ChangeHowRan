@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Christina ! 👋</h1>
+<h1 align="center">Hi, I'm Ran ! 👋</h1>
 <h3 align="center">I am a front-end developer specializing in Web Apps and DApps.</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="https://space.bilibili.com/569420627" target="_blank"><img src="https://img.shields.io/badge/Bilibili-FF6A8A?logo=bilibili&logoColor=fff" alt="LinkedIn"/></a>
+  <a href="https://space.bilibili.com/147613415" target="_blank"><img src="https://img.shields.io/badge/Bilibili-FF6A8A?logo=bilibili&logoColor=fff" alt="LinkedIn"/></a>
 </p>
 
 ### 💻 Languages:
